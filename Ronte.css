@@ -1,0 +1,441 @@
+.mediaViewInfo {
+	--web-view-name: Ronte;
+	--web-view-id: Ronte;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Ronte;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.audio_Class{
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 40px;
+	top: 175px;
+	overflow: visible;
+}
+@keyframes fadeIn {
+	0% {opacity:0;}
+	100% {opacity:1;}
+  }
+
+  @keyframes fadeOut {
+	100% {opacity:1;}
+	0% {opacity:0;}
+  }
+
+.Ronte_Class {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Ronte;
+	--web-view-id: Ronte;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Bermuda_Back_Class {
+	opacity: 0.94;
+	fill: rgba(0,10,3,1);
+}
+.Bermuda_Back {
+	position: absolute;
+	overflow: visible;
+	width: 404px;
+	height: 875px;
+	left: -13px;
+	top: -6px;
+}
+.Bermuda_Back_bm_Class {
+	opacity: 1;
+	mix-blend-mode: saturation;
+	position: absolute;
+	width: 404px;
+	height: 875px;
+	left: -13px;
+	top: -6px;
+	overflow: visible;
+}
+.Interaction_Space_Class {
+	opacity: 0.34;
+	filter: blur(0px);
+	fill: rgba(255,255,255,1);
+}
+.Interaction_Space {
+	mix-blend-mode: soft-light;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 612px;
+	left: -4px;
+	top: 275px;
+}
+.Sea_Back_Class {
+	opacity: 0.6;
+	mix-blend-mode: soft-light;
+	position: absolute;
+	width: 2005px;
+	height: 1128px;
+	left: -836px;
+	top: -119px;
+	overflow: visible;
+}
+.Log_Back_Class {
+	fill: rgba(255,255,255,1);
+}
+.Log_Back {
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	height: 38px;
+	left: 74px;
+	top: 101px;
+}
+.log_002_earworm_Class {
+	left: 96px;
+	top: 109px;
+	position: absolute;
+	overflow: visible;
+	width: 188px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Heavitas;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(7,53,46,1);
+}
+.BERMUDA_Class {
+	left: 118px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+
+.Cahoots_Class {
+	display: none;
+	animation: fadeIn linear 1s;
+	position: absolute;
+	width: 250px;
+	height: 130px;
+	left: 63px;
+	top: 319px;
+	overflow: visible;
+}
+.CahootsButton_Class {
+	background-color: rgba(255,255,255,1);
+	border-radius: 13px;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	height: 29px;
+	left: 139px;
+	top: 90px;
+	white-space: nowrap;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(43,70,56,1);
+}
+.In_Cahoots_Class {
+	left: 123px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.RocketPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 0px;
+	top: 45px;
+	overflow: visible;
+}
+.DantePic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 66px;
+	left: 42px;
+	top: 64px;
+	overflow: visible;
+}
+.Subheading_Back_1_Class {
+	opacity: 0.43;
+	fill: rgba(255,255,255,1);
+}
+.Subheading_Back_1 {
+	mix-blend-mode: overlay;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	height: 49px;
+	left: 68px;
+	top: 0px;
+}
+.new_clue_Class {
+	left: 87px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quick;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+
+.No_Results_Class {
+	display: none;
+	animation: fadeIn linear 0.5s;
+	position: absolute;
+	width: 183px;
+	height: 29px;
+	left: 96px;
+	top: 370px;
+	overflow: visible;
+}
+.NoResultsBack_Class {
+	opacity: 0.15;
+	fill: rgba(0,0,0,1);
+}
+.NoResultsBack {
+	mix-blend-mode: overlay;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+.NO_MORE_RESULTS_Class {
+	left: 16px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Searching_Class {
+	display: none;
+	animation: fadeIn linear 1s;
+	position: absolute;
+	width: 109px;
+	height: 29px;
+	left: 133px;
+	top: 320px;
+	overflow: visible;
+}
+.SearchBack_Class {
+	opacity: 0.21;
+	fill: rgba(0,0,0,1);
+}
+.SearchBack {
+	mix-blend-mode: overlay;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+.SEARCHING_Class {
+	left: 16px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+
+.CahootsReport_Class {
+	display: none;
+	animation: fadeIn linear 0.3s;
+	position: absolute;
+	width: 314px;
+	height: 334px;
+	left: 31px;
+	top: 317px;
+	overflow: visible;
+}
+
+.CommsReportBack_Class {
+	fill: rgba(255,255,255,1);
+}
+.CommsReportBack {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	height: 352px;
+	left: 0px;
+	top: 0px;
+}
+
+.CahootsClose_Class {
+	background-color: rgba(7,57,51,1);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	border-radius: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	height: 29px;
+	left: 116px;
+	top: 280px;
+	white-space: nowrap;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+.CahootsClose_Class:hover {
+	background-color: white;
+	border-color:rgba(7,57,51,1);
+	border-width: 2px;
+	border-style: solid;
+	color: rgba(7,57,51,1);
+}
+.In_Cahoots_b_Class {
+	left: 132px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(7,57,51,1);
+}
+.New_Clue_b_Class {
+	left: 132px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(105,131,117,1);
+}
+.CahootsBio_Class {
+	left: 36px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: normal;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(7,57,51,1);
+}
+.RocketPic_b_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 44px;
+	height: 45px;
+	left: 46px;
+	top: 25px;
+	overflow: visible;
+}
+.DantePic_b_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 44px;
+	height: 44px;
+	left: 75px;
+	top: 39px;
+	overflow: visible;
+}
+.Continue_Class {
+	display: none;
+	animation: fadeIn linear 1s;
+	position: absolute;
+	width: 120px;
+	height: 31px;
+	left: 129px;
+	top: 430px;
+	overflow: visible;
+}
+.ContinueButton_Class {
+	background-color: rgba(255,255,255,1);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.349));
+	border-radius: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	white-space: nowrap;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(43,70,55,1);
+}

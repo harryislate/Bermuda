@@ -1,0 +1,372 @@
+.mediaViewInfo {
+	--web-view-name: Credits;
+	--web-view-id: Credits;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Credits;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Credits_Class {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Credits;
+	--web-view-id: Credits;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Bermuda_Back_Class {
+	position: absolute;
+	width: 404px;
+	height: 875px;
+	left: -13px;
+	top: -6px;
+	overflow: visible;
+}
+.Interaction_Space_Class {
+	opacity: 0.34;
+	filter: blur(0px);
+	fill: rgba(255,255,255,1);
+}
+.Interaction_Space {
+	mix-blend-mode: soft-light;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 714px;
+	left: -4px;
+	top: 173px;
+}
+.Sea_Back_Class {
+	position: absolute;
+	width: 2005px;
+	height: 1128px;
+	left: -842px;
+	top: -126px;
+	overflow: visible;
+}
+.Sea_Back_b_Class {
+	opacity: 0.49;
+	mix-blend-mode: soft-light;
+	position: absolute;
+	width: 2005px;
+	height: 1128px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Anja_Class {
+	position: absolute;
+	width: 212px;
+	height: 76px;
+	left: 57px;
+	top: 294px;
+	overflow: visible;
+}
+.RocketPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 76px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Anja_Perry_Class {
+	left: 89px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.as_Rocket_Lindeman_Class {
+	left: 91px;
+	top: 45px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(184,184,246,1);
+}
+.Harry_Class {
+	position: absolute;
+	width: 198px;
+	height: 76px;
+	left: 57px;
+	top: 204px;
+	overflow: visible;
+}
+.OskarPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 76px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Harry_Mitchell_Class {
+	left: 91px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.as_Oskar_Ferrison_Class {
+	left: 91px;
+	top: 45px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(184,184,246,1);
+}
+.Log_Back_Class {
+	fill: rgba(255,255,255,1);
+}
+.Log_Back {
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	height: 38px;
+	left: 131px;
+	top: 43px;
+}
+.credits_Class {
+	left: 147px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Heavitas;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(18,0,56,1);
+}
+.Crawford_Class {
+	position: absolute;
+	width: 273px;
+	height: 77px;
+	left: 57px;
+	top: 388px;
+	overflow: visible;
+}
+.DantePic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 76px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Matthew_Crawford_Russell_Class {
+	left: 91px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.as_Dante_Kristoff_Class {
+	left: 91px;
+	top: 42px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(184,184,246,1);
+}
+.Cei_Class {
+	position: absolute;
+	width: 251px;
+	height: 80px;
+	left: 57px;
+	top: 483px;
+	overflow: visible;
+}
+.CalihanPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Cei_Hemingway-Brunt_Class {
+	left: 98px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.as_Captain_Calihan_Class {
+	left: 98px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(184,184,246,1);
+}
+.Edward_Class {
+	position: absolute;
+	width: 229px;
+	height: 76px;
+	left: 57px;
+	top: 581px;
+	overflow: visible;
+}
+.WikPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 77px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Edward_Macmillan__Class {
+	left: 96px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.as_Dr_Erik_Wikstrom_Class {
+	left: 96px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(184,184,246,1);
+}
+.Morna_Class {
+	position: absolute;
+	width: 199px;
+	height: 76px;
+	left: 57px;
+	top: 675px;
+	overflow: visible;
+}
+.Beatle_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 76px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.and_Morna_Ross_Class {
+	left: 96px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.as_Ellie_Wallace_Class {
+	left: 96px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(184,184,246,1);
+}

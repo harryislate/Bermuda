@@ -1,0 +1,676 @@
+.mediaViewInfo {
+	--web-view-name: Calihan;
+	--web-view-id: Calihan;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Calihan;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Calihan_Class {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Calihan;
+	--web-view-id: Calihan;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadeIn {
+	0% {opacity:0;}
+	100% {opacity:1;}
+  }
+
+  @keyframes fadeOut {
+	100% {opacity:1;}
+	0% {opacity:0;}
+  }
+  
+.audio_Class{
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 40px;
+	top: 175px;
+	overflow: visible;
+}
+
+.Calihan1_Class {
+	display: none;
+}
+.Bermuda_Back_Class {
+	opacity: 0.94;
+	fill: rgba(0,10,3,1);
+}
+.Bermuda_Back {
+	position: absolute;
+	overflow: visible;
+	width: 404px;
+	height: 875px;
+	left: -13px;
+	top: -6px;
+}
+.Bermuda_Back_bm_Class {
+	opacity: 1;
+	mix-blend-mode: saturation;
+	width: 404px;
+	height: 875px;
+	left: -13px;
+	top: -6px;
+	overflow: visible;
+}
+.Interaction_Space_Class {
+	opacity: 0.34;
+	filter: blur(0px);
+	fill: rgba(255,255,255,1);
+}
+.Interaction_Space {
+	mix-blend-mode: soft-light;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 612px;
+	left: 0px;
+	top: 275px;
+}
+.Sea_Back_Class {
+	opacity: 0.6;
+	mix-blend-mode: soft-light;
+	position: absolute;
+	width: 2005px;
+	height: 1128px;
+	left: -836px;
+	top: -119px;
+	overflow: visible;
+}
+.Log_Back_Class {
+	fill: rgba(255,255,255,1);
+}
+.Log_Back {
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	height: 38px;
+	left: 74px;
+	top: 101px;
+}
+.log_002_earworm_Class {
+	left: 96px;
+	top: 109px;
+	position: absolute;
+	overflow: visible;
+	width: 188px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Heavitas;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(7,53,46,1);
+}
+.BERMUDA_Class {
+	left: 118px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.Calihan_bs_Class {
+	display: none;
+	animation: fadeIn linear 1s;
+	position: absolute;
+	width: 243px;
+	height: 82px;
+	left: 66px;
+	top: 475px;
+	overflow: visible;
+}
+.CalihanButton_Class {
+	background-color: rgba(255,255,255,1);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	border-radius: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	height: 29px;
+	left: 127px;
+	top: 48px;
+	white-space: nowrap;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(43,70,56,1);
+}
+.CalihanButton_Class:hover {
+	background-color: rgb(6, 104, 66);
+	color: white
+}
+.CalihanPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Cpt_Calihan_Class {
+	left: 105px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.Proteus_Class {
+	display: none;
+	animation: fadeIn linear 1s;
+	position: absolute;
+	width: 205px;
+	height: 125px;
+	left: 81px;
+	top: 322px;
+	overflow: visible;
+}
+.ProteusButton_Class {
+	background-color: rgba(255,255,255,1);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	border-radius: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	height: 29px;
+	left: 112px;
+	top: 93px;
+	white-space: nowrap;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(43,70,56,1);
+}
+.ProteusButton_Class:hover {
+	background-color: rgb(6, 104, 66);
+	color: white
+}
+.ProteusPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	left: 0px;
+	top: 43px;
+	overflow: visible;
+}
+.Proteus_b_Class {
+	left: 115px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Subheading_Back_1_Class {
+	opacity: 0.43;
+	fill: rgba(255,255,255,1);
+}
+.Subheading_Back_1 {
+	mix-blend-mode: overlay;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 46px;
+	left: 41px;
+	top: 0px;
+}
+.NEW_CHARACTER_Class {
+	left: 53px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+
+.ProteusName_Class {
+	left: 103px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+
+.Subheading_Back_1_Class {
+	opacity: 0.43;
+	fill: rgba(255,255,255,1);
+}
+.Subheading_Back_1 {
+	mix-blend-mode: overlay;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 46px;
+	left: 41px;
+	top: 0px;
+}
+.NEW_CHARACTER_Class {
+	left: 53px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+.ProteusReport_Class {
+	display: none;
+	animation: fadeIn linear 0.3s;
+	position: absolute;
+	width: 310px;
+	height: 327px;
+	left: 39px;
+	top: 319px;
+	overflow: visible;
+}
+.ProteusReportBack_Class {
+	fill: rgba(255,255,255,1);
+}
+.ProteusReportBack {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 345px;
+	left: 0px;
+	top: 0px;
+}
+.ProteusRepName_Class {
+	left: 127px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(7,57,51,1);
+}
+.Ship_OS_Class {
+	left: 127px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(105,131,117,1);
+}
+.Any_pronouns_Class {
+	left: 127px;
+	top: 77.519px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 7px;
+	color: rgba(105,131,117,1);
+}
+.Proteus_Bio_Class {
+	left: 29.5px;
+	top: 109.478px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: normal;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(7,57,51,1);
+}
+.ProteusClose_Class {
+	background-color: rgba(7,57,51,1);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	border-radius: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 26px;
+	left: 111px;
+	top: 275.436px;
+	white-space: nowrap;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+.ProteusClose_Class:hover {
+	background-color: white;
+	border-color:rgba(7,57,51,1);
+	border-width: 2px;
+	border-style: solid;
+	color: rgba(7,57,51,1);
+}
+.ProteusReportPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 66px;
+	height: 65px;
+	left: 45px;
+	top: 29px;
+	overflow: visible;
+}
+
+.CalihanReport_Class {
+	display: none;
+	animation: fadeIn linear 0.3s;
+	position: absolute;
+	width: 310px;
+	height: 303px;
+	left: 38px;
+	top: 313px;
+	overflow: visible;
+}
+.CalihanReportBack_Class {
+	fill: rgba(255,255,255,1);
+}
+.CalihanReportBack {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 321px;
+	left: 0px;
+	top: 0px;
+}
+.Katie_Calihan_Class {
+	left: 122px;
+	top: 31.519px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(7,57,51,1);
+}
+.Ship_Captain_Class {
+	left: 122px;
+	top: 59.519px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(105,131,117,1);
+}
+.Sheher_Class {
+	left: 122px;
+	top: 77.519px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 7px;
+	color: rgba(105,131,117,1);
+}
+.Calihan_Bio_Class {
+	left: 29.5px;
+	top: 106.478px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: normal;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(7,57,51,1);
+}
+.CalihanClose_Class {
+	background-color: rgba(7,57,51,1);
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	border-radius: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 26px;
+	left: 108px;
+	top: 252.478px;
+	white-space: nowrap;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+.CalihanClose_Class:hover {
+	background-color: white;
+	border-color:rgba(7,57,51,1);
+	border-width: 2px;
+	border-style: solid;
+	color: rgba(7,57,51,1);
+}
+.CalihanPic_cc_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 77px;
+	height: 77px;
+	left: 35px;
+	top: 21px;
+	overflow: visible;
+}
+
+.Calihan2_Class {
+	display: none;
+}
+.WikstromListen_Class {
+	display: none;
+	animation: fadeIn linear 1s;
+	position: absolute;
+	width: 252px;
+	height: 82px;
+	left: 62px;
+	top: 418px;
+	overflow: visible;
+}
+.WikLButton_Class {
+	background-color: rgba(255,255,255,1);
+	border-radius: 13px;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	height: 29px;
+	left: 136px;
+	top: 43px;
+	white-space: nowrap;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(43,70,56,1);
+}
+.Dr_Wikstrom_Class {
+	left: 114px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+.WikLPic_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.MicHeader_Class {
+	display: none;
+	animation: fadeIn 0.5s;
+	position: absolute;
+	width: 179px;
+	height: 29px;
+	left: 105px;
+	top: 369px;
+	overflow: visible;
+}
+.MicBack_Class {
+	opacity: 0.5;
+	fill: rgba(255,255,255,1);
+}
+.MicBack {
+	mix-blend-mode: overlay;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+.MIC_LOGS_FOUND_Class {
+	left: 21px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Searching_Class {
+	display: none;
+	animation: fadeIn linear 0.5s;
+	position: absolute;
+	width: 109px;
+	height: 29px;
+	left: 138px;
+	top: 320px;
+	overflow: visible;
+}
+.SearchBack_Class {
+	opacity: 0.21;
+	fill: rgba(0,0,0,1);
+}
+.SearchBack {
+	mix-blend-mode: overlay;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+.SEARCHING_Class {
+	left: 16px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}

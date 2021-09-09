@@ -1,0 +1,393 @@
+.mediaViewInfo {
+	--web-view-name: 1-Breach;
+	--web-view-id: ID1-Breach;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID1-Breach;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.ID1-Breach_Class {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 1-Breach;
+	--web-view-id: ID1-Breach;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Bermuda_Back_c_Class {
+	position: absolute;
+	width: 404px;
+	height: 875px;
+	left: -13px;
+	top: -6px;
+	overflow: visible;
+}
+.Interaction_Space_da_Class {
+	opacity: 0.34;
+	filter: blur(0px);
+	fill: rgba(255,255,255,1);
+}
+.Interaction_Space_da {
+	mix-blend-mode: soft-light;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 612px;
+	left: -4px;
+	top: 275px;
+}
+.Sea_Back_db_Class {
+	opacity: 0.49;
+	mix-blend-mode: soft-light;
+	position: absolute;
+	width: 2005px;
+	height: 1128px;
+	left: -842px;
+	top: -126px;
+	overflow: visible;
+}
+.RocketPic_dc_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	left: 48px;
+	top: 434px;
+	overflow: visible;
+}
+.ArkletPic_dd_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	left: 74px;
+	top: 607px;
+	overflow: visible;
+}
+.The_Breach_de_Class {
+	left: 179px;
+	top: 610px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+.Subheading_Back_1_df_Class {
+	opacity: 0.43;
+	fill: rgba(255,255,255,1);
+}
+.Subheading_Back_1_df {
+	mix-blend-mode: overlay;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	height: 49px;
+	left: 137px;
+	top: 557px;
+}
+.new_event_dg_Class {
+	left: 151px;
+	top: 564px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quick;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+.Arklet_Button_dh_Class {
+	fill: rgba(255,255,255,1);
+}
+.Arklet_Button_dh {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 47px;
+	left: 188px;
+	top: 647px;
+}
+.Arklet_Read_File_di_Class {
+	left: 202px;
+	top: 653px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(61,42,99,1);
+}
+.Rocket_Button_dj_Class {
+	position: absolute;
+	width: 93px;
+	height: 29px;
+	left: 184px;
+	top: 487px;
+	overflow: visible;
+}
+.Rocket_Button_dk_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rocket_Button_dk {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+.Rocket_Read_File_dl_Class {
+	left: 198px;
+	top: 493px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(61,42,99,1);
+}
+.Rocket_Lindeman_dm_Class {
+	left: 145px;
+	top: 446px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+.Oskar_Button_dn_Class {
+	fill: rgba(255,255,255,1);
+}
+.Oskar_Button_dn {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 47px;
+	left: 184px;
+	top: 376px;
+}
+.Oskar_Read_File_do_Class {
+	left: 198px;
+	top: 382px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(61,42,99,1);
+}
+.OskarPic_dp_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	left: 48px;
+	top: 325px;
+	overflow: visible;
+}
+.Oskar_Ferrison_dq_Class {
+	left: 145px;
+	top: 335px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.Log_Back_dr_Class {
+	fill: rgba(255,255,255,1);
+}
+.Log_Back_dr {
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	height: 38px;
+	left: 74px;
+	top: 101px;
+}
+.log_001_absentee_ds_Class {
+	left: 91px;
+	top: 108px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Heavitas;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(18,0,56,1);
+}
+.BERMUDA_dt_Class {
+	left: 118px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.BreachEvent_Class {
+	position: absolute;
+	width: 310px;
+	height: 283px;
+	left: 33px;
+	top: 298px;
+	overflow: visible;
+}
+.ReportBack_dv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ReportBack_dv {
+	position: absolute;
+	overflow: visible;
+	width: 310px;
+	height: 283px;
+	left: 0px;
+	top: 0px;
+}
+.The_Breach_dw_Class {
+	left: 135px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Andromeda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,14,105,1);
+}
+.New_Event_dx_Class {
+	left: 135px;
+	top: 65px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(154,160,196,1);
+}
+.BreachBio_Class {
+	left: 33.5px;
+	top: 108px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,14,105,1);
+}
+.Rocket_Button_dz_Class {
+	fill: rgba(0,14,105,1);
+}
+.Rocket_Button_dz {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	height: 42.488px;
+	left: 119px;
+	top: 234.512px;
+}
+.Rocket_Read_File_d_Class {
+	left: 138px;
+	top: 240.088px;
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cocogoose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.BreachPic_d_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 68px;
+	height: 68px;
+	left: 53px;
+	top: 25px;
+	overflow: visible;
+}
