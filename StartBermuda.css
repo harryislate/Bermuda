@@ -18,6 +18,16 @@
 	src: url("fonts/Andromeda-Bold.otf") format("opentype");
 }
 
+@font-face {
+	font-family: Heavitas;
+	src: url("fonts/Heavitas.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: Cocogoose;
+	src: url("fonts/Cocogoose_trial.otf") format("opentype");
+}
+
 * {
 	margin: 0;
 	padding: 0;
@@ -139,7 +149,7 @@
 	width: 238px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Quick;
+	font-family: Heavitas;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 12px;
@@ -153,7 +163,7 @@
 	width: 91px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Quick;
+	font-family: Heavitas;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 12px;
