@@ -12,6 +12,12 @@
 :root {
 	--web-view-ids: ID0-Splash;
 }
+
+@font-face {
+	font-family: Andromeda;
+	src: url("fonts/Andromeda-Bold.otf") format("opentype");
+}
+
 * {
 	margin: 0;
 	padding: 0;
