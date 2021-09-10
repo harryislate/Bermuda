@@ -26,6 +26,11 @@
 	font-family: Cocogoose;
 	src: url("fonts/Cocogoose_trial.otf") format("opentype");
 }
+
+@font-face {
+	font-family: Montserrat;
+	src: url("fonts/Montserrat/Montserrat-Regular.ttf") format("truetype");
+}
 * {
 	margin: 0;
 	padding: 0;

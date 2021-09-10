@@ -12,6 +12,25 @@
 :root {
 	--web-view-ids: Ronte;
 }
+
+@font-face {
+	font-family: Andromeda;
+	src: url("fonts/Andromeda-Bold.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Heavitas;
+	src: url("fonts/Heavitas.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: Cocogoose;
+	src: url("fonts/Cocogoose_trial.otf") format("opentype");
+}
+@font-face {
+	font-family: Montserrat;
+	src: url("fonts/Montserrat/Montserrat-Regular.ttf") format("truetype");
+}
 * {
 	margin: 0;
 	padding: 0;
